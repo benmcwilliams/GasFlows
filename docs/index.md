@@ -1,5 +1,5 @@
 Test Page 
 
-[Link to test map](https://benmcwilliams.github.io/GasFlows/DE.html)
+The below links show daily imports/exports by country:
+[Germany](https://benmcwilliams.github.io/GasFlows/DE.html)
 
-(https://github.com/benmcwilliams/GasFlows/blob/main/docs/DE.html)
