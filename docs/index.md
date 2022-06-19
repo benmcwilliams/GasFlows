@@ -2,7 +2,7 @@
 
 The below links show daily imports/exports by country:
 
-[Austria](https://benmcwilliams.github.io/GasFlows/AT.html)
+[Austria](https://benmcwilliams.github.io/GasFlows/AT.html)<br>
 [Belgium](https://benmcwilliams.github.io/GasFlows/BE.html)
 [Bulgaria](https://benmcwilliams.github.io/GasFlows/BG.html)
 [Switzerland](https://benmcwilliams.github.io/GasFlows/CH.html)
@@ -36,5 +36,3 @@ The below links show daily imports/exports by country:
 ![Germany](https://benmcwilliams.github.io/GasFlows/assets/germany.png?raw=true|width=0.1px)
 
 <img src="https://benmcwilliams.github.io/GasFlows/assets/germany.png?" width="200" />
-
-
