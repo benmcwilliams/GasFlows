@@ -36,4 +36,3 @@ The below links show daily imports/exports by country:
 <p> Here I can add a technical annex with more details on the calculations <p>
 
 ![This is an image](/assets/germany.PNG)
-d
