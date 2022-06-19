@@ -62,10 +62,10 @@ C) ENTSO-G not including all import flows (eg NO-DK imports? HR LNG plant does n
 ##### Germany
 <img src="https://benmcwilliams.github.io/GasFlows/assets/DE.png?" width="400" />
 
-##### Denmark
-<img src="https://benmcwilliams.github.io/GasFlows/assets/DK.png?" width="400" />
+##### Denmark/Sweden (joint balancing)
+<img src="https://benmcwilliams.github.io/GasFlows/assets/DK-SE.png?" width="400" />
 
-##### Estonia/Latvia
+##### Estonia/Latvia (joint balancing)
 <img src="https://benmcwilliams.github.io/GasFlows/assets/EE-LV.png?" width="400" />
 
 ##### Spain
