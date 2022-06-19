@@ -32,8 +32,37 @@ The below links show daily imports/exports by country:
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
 
 ## Technical Annex 
-##### Germany
-
 The data are retrieved from the ENTSO-G transparency platform. We cross-check data against the IEA reporting as well as figures given by national TSOs where available. A final check can be performed by calculating the implied demand given by the import/export values we have and comparing this to real demand reported by Eurostat at a 3-month delay. The below graphs show this comparison. For some countries (eg DE, xx) the match is very close while for others there is a difference. 
 
-<img src="https://benmcwilliams.github.io/GasFlows/assets/germany.png?" width="600" />
+##### Austria
+<img src="https://benmcwilliams.github.io/GasFlows/assets/AT.png?" width="600" />
+
+##### Belgium
+<img src="https://benmcwilliams.github.io/GasFlows/assets/BE.png?" width="600" />
+
+##### Bulgaria
+<img src="https://benmcwilliams.github.io/GasFlows/assets/BG.png?" width="600" />
+
+##### Czechia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/CZ.png?" width="600" />
+
+##### Germany
+<img src="https://benmcwilliams.github.io/GasFlows/assets/DE.png?" width="600" />
+
+##### Denmark
+<img src="https://benmcwilliams.github.io/GasFlows/assets/DK.png?" width="600" />
+
+##### Estonia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/EE.png?" width="600" />
+
+##### Spain
+<img src="https://benmcwilliams.github.io/GasFlows/assets/ES.png?" width="600" />
+
+##### Finland
+<img src="https://benmcwilliams.github.io/GasFlows/assets/FI.png?" width="600" />
+
+##### France
+<img src="https://benmcwilliams.github.io/GasFlows/assets/FR.png?" width="600" />
+
+##### Greece
+<img src="https://benmcwilliams.github.io/GasFlows/assets/GR.png?" width="600" />
