@@ -1,5 +1,3 @@
-Test Page 
-
 <h2>Daily Natural Gas Balances by Country</h2>
 
 The below links show daily imports/exports by country:
