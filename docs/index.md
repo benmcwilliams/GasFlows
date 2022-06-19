@@ -32,37 +32,84 @@ The below links show daily imports/exports by country:
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
 
 ## Technical Annex 
-The data are retrieved from the ENTSO-G transparency platform. We cross-check data against the IEA reporting as well as figures given by national TSOs where available. A final check can be performed by calculating the implied demand given by the import/export values we have and comparing this to real demand reported by Eurostat at a 3-month delay. The below graphs show this comparison. For some countries (eg DE, xx) the match is very close while for others there is a difference. 
+The data are retrieved from the ENTSO-G transparency platform. We cross-check data against the IEA reporting as well as figures given by national TSOs where available. A final check can be performed by calculating the implied demand given by the import/export values we have and comparing this to real demand reported by Eurostat at a 3-month delay. The below graphs show this comparison. Implied demand is calculated as:
+
+demand (month_t) = imports(month_t) + domestic_production (month_t) + storage_draw(month-t) - exports (month_t)
+where storage draw(month_t) = storage(month_t) - storage (month_t+1)
+
+For some countries (eg DE, xx) the match is very close while for others there is a difference. 
 
 ##### Austria
-<img src="https://benmcwilliams.github.io/GasFlows/assets/AT.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/AT.png?" width="400" />
 
 ##### Belgium
-<img src="https://benmcwilliams.github.io/GasFlows/assets/BE.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/BE.png?" width="400" />
 
 ##### Bulgaria
-<img src="https://benmcwilliams.github.io/GasFlows/assets/BG.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/BG.png?" width="400" />
 
 ##### Czechia
-<img src="https://benmcwilliams.github.io/GasFlows/assets/CZ.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/CZ.png?" width="400" />
 
 ##### Germany
-<img src="https://benmcwilliams.github.io/GasFlows/assets/DE.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/DE.png?" width="400" />
 
 ##### Denmark
-<img src="https://benmcwilliams.github.io/GasFlows/assets/DK.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/DK.png?" width="400" />
 
 ##### Estonia
-<img src="https://benmcwilliams.github.io/GasFlows/assets/EE.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/EE.png?" width="400" />
 
 ##### Spain
-<img src="https://benmcwilliams.github.io/GasFlows/assets/ES.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/ES.png?" width="400" />
 
 ##### Finland
-<img src="https://benmcwilliams.github.io/GasFlows/assets/FI.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/FI.png?" width="400" />
 
 ##### France
-<img src="https://benmcwilliams.github.io/GasFlows/assets/FR.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/FR.png?" width="400" />
 
 ##### Greece
-<img src="https://benmcwilliams.github.io/GasFlows/assets/GR.png?" width="600" />
+<img src="https://benmcwilliams.github.io/GasFlows/assets/GR.png?" width="400" />
+
+##### Croatia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/HR.png?" width="400" />
+
+##### Hungary
+<img src="https://benmcwilliams.github.io/GasFlows/assets/HU.png?" width="400" />
+
+##### Italy
+<img src="https://benmcwilliams.github.io/GasFlows/assets/IT.png?" width="400" />
+
+##### Lithuania
+<img src="https://benmcwilliams.github.io/GasFlows/assets/LT.png?" width="400" />
+
+##### Luxembourg
+<img src="https://benmcwilliams.github.io/GasFlows/assets/LU.png?" width="400" />
+
+##### Latvia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/LV.png?" width="400" />
+
+##### Moldova
+<img src="https://benmcwilliams.github.io/GasFlows/assets/MD.png?" width="400" />
+
+##### The Netherlands
+<img src="https://benmcwilliams.github.io/GasFlows/assets/NL.png?" width="400" />
+
+##### Poland
+<img src="https://benmcwilliams.github.io/GasFlows/assets/PL.png?" width="400" />
+
+##### Portugal
+<img src="https://benmcwilliams.github.io/GasFlows/assets/PT.png?" width="400" />
+
+##### Romania
+<img src="https://benmcwilliams.github.io/GasFlows/assets/RO.png?" width="400" />
+
+##### Serbia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/RS.png?" width="400" />
+
+##### Slovenia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/SI.png?" width="400" />
+
+##### Slovakia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/SI.png?" width="400" />
