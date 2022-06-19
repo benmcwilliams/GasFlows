@@ -32,7 +32,8 @@ The below links show daily imports/exports by country:
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
 
 ## Points of entry/exit
-The below figures show entry/exit into each country by points. 
+The below figures show entry/exit into each country by points:
+
 [Austria](https://benmcwilliams.github.io/GasFlows/AT_route.html)
 [Belgium](https://benmcwilliams.github.io/GasFlows/BE_route.html)
 [Bulgaria](https://benmcwilliams.github.io/GasFlows/BG_route.html)
