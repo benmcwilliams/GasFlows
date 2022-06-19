@@ -32,12 +32,17 @@ The below links show daily imports/exports by country:
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
 
 ## Technical Annex 
-The data are retrieved from the ENTSO-G transparency platform. We cross-check data against the IEA reporting as well as figures given by national TSOs where available. A final check can be performed by calculating the implied demand given by the import/export values we have and comparing this to real demand reported by Eurostat at a 3-month delay. The below graphs show this comparison. Implied demand is calculated as:
+The data are retrieved from the ENTSO-G transparency platform. We cross-check data against IEA reporting as well as figures given by national TSOs where available. A final check can be performed by calculating the implied demand given by the import/export values we have and comparing this to demand reported by Eurostat at a 3-month delay. The below graphs show this comparison. Implied demand is calculated as:
 
 demand (month_t) = imports(month_t) + domestic_production (month_t) + storage_draw(month-t) - exports (month_t)
 where storage draw(month_t) = storage(month_t) - storage (month_t+1)
 
 For some countries (eg DE, xx) the match is very close while for others there is a difference. 
+
+Differences could be due to 
+A) A mistake in the points which we querry from ENTSO-G
+B) Misreporting on storage numbers at AGSI which are from time-to-time updated
+C) ENTSO-G not including all import flows (eg NO-DK imports? HR LNG plant does not appear to show early operational data?)
 
 ##### Austria
 <img src="https://benmcwilliams.github.io/GasFlows/assets/AT.png?" width="400" />
