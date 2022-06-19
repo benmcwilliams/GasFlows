@@ -2,7 +2,7 @@
 
 The below links show daily imports/exports by country:
 
-![Austria](https://benmcwilliams.github.io/GasFlows/AT.html)
+[Austria](https://benmcwilliams.github.io/GasFlows/AT.html)
 [Belgium](https://benmcwilliams.github.io/GasFlows/BE.html)
 [Bulgaria](https://benmcwilliams.github.io/GasFlows/BG.html)
 [Switzerland](https://benmcwilliams.github.io/GasFlows/CH.html)
@@ -30,6 +30,10 @@ The below links show daily imports/exports by country:
 [Slovenia](https://benmcwilliams.github.io/GasFlows/SI.html)
 [Slovakia](https://benmcwilliams.github.io/GasFlows/SK.html)
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
+
+## Points of entry/exit
+The below figures show entry/exit into each country by points. 
+
 
 ## Technical Annex 
 The data are retrieved from the ENTSO-G transparency platform. They are cross-checked against IEA reporting as well as figures given by national TSOs where available. A final check can be performed by calculating the implied demand given by the import/export values we have and comparing this to demand reported by Eurostat at a 3-month delay. The below graphs show this comparison. Implied demand is calculated as:
