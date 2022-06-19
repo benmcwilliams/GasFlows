@@ -30,9 +30,6 @@ The below links show daily imports/exports by country:
 [Slovenia](https://benmcwilliams.github.io/GasFlows/SI.html)
 [Slovakia](https://benmcwilliams.github.io/GasFlows/SK.html)
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
-
-
-<h2>Technical Details</h2>
 ![Germany](https://benmcwilliams.github.io/GasFlows/assets/germany.png?raw=true)
 
 
