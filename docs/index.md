@@ -1,7 +1,5 @@
 <h2>Daily Natural Gas Balances by Country</h2>
 
-![Germany](https://benmcwilliams.github.io/GasFlows/assets/germany.png?raw=true)
-
 The below links show daily imports/exports by country:
 
 [Austria](https://benmcwilliams.github.io/GasFlows/AT.html)<br>
@@ -35,6 +33,6 @@ The below links show daily imports/exports by country:
 
 
 <h2>Technical Details</h2>
-<p> Here I can add a technical annex with more details on the calculations <p>
+![Germany](https://benmcwilliams.github.io/GasFlows/assets/germany.png?raw=true)
 
 
