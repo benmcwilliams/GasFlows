@@ -1,5 +1,5 @@
 Test Page 
 
-[Link to test map](https://github.com/benmcwilliams/GasFlows/blob/main/docs/DE.html)
+[Link to test map](https://benmcwilliams.github.io/GasFlows/DE.html)
 
-Add some text.
+(https://github.com/benmcwilliams/GasFlows/blob/main/docs/DE.html)
