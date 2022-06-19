@@ -33,6 +33,34 @@ The below links show daily imports/exports by country:
 
 ## Points of entry/exit
 The below figures show entry/exit into each country by points. 
+[Austria](https://benmcwilliams.github.io/GasFlows/AT_route.html)
+[Belgium](https://benmcwilliams.github.io/GasFlows/BE_route.html)
+[Bulgaria](https://benmcwilliams.github.io/GasFlows/BG_route.html)
+[Switzerland](https://benmcwilliams.github.io/GasFlows/CH_route.html)
+[Czechia](https://benmcwilliams.github.io/GasFlows/CZ_route.html)
+[Germany](https://benmcwilliams.github.io/GasFlows/DE_route.html)
+[Denmark](https://benmcwilliams.github.io/GasFlows/DK_route.html)
+[Estonia](https://benmcwilliams.github.io/GasFlows/EE_route.html)
+[Spain](https://benmcwilliams.github.io/GasFlows/ES_route.html)
+[Finland](https://benmcwilliams.github.io/GasFlows/FI_route.html)
+[France](https://benmcwilliams.github.io/GasFlows/FR_route.html)
+[Greece](https://benmcwilliams.github.io/GasFlows/GR_route.html)
+[Croatia](https://benmcwilliams.github.io/GasFlows/HR_route.html)
+[Hungary](https://benmcwilliams.github.io/GasFlows/HU_route.html)
+[Italy](https://benmcwilliams.github.io/GasFlows/IT_route.html)
+[Lithuania](https://benmcwilliams.github.io/GasFlows/LT_route.html)
+[Luxembourg](https://benmcwilliams.github.io/GasFlows/LU_route.html)
+[Latvia](https://benmcwilliams.github.io/GasFlows/LV_route.html)
+[Moldova](https://benmcwilliams.github.io/GasFlows/MD_route.html)
+[Netherlands](https://benmcwilliams.github.io/GasFlows/NL_route.html)
+[Norway](https://benmcwilliams.github.io/GasFlows/NO_route.html)
+[Poland](https://benmcwilliams.github.io/GasFlows/PL_route.html)
+[Portugal](https://benmcwilliams.github.io/GasFlows/PT_route.html)
+[Romania](https://benmcwilliams.github.io/GasFlows/RO_route.html)
+[Serbia](https://benmcwilliams.github.io/GasFlows/RS_route.html)
+[Slovenia](https://benmcwilliams.github.io/GasFlows/SI_route.html)
+[Slovakia](https://benmcwilliams.github.io/GasFlows/SK_route.html)
+[United Kingdom](https://benmcwilliams.github.io/GasFlows/UK_route.html)
 
 
 ## Technical Annex 
