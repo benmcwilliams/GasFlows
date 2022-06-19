@@ -35,4 +35,4 @@ The below links show daily imports/exports by country:
 <h2>Technical Details</h2>
 <p> Here I can add a technical annex with more details on the calculations <p>
 
-[Germany](/docs/assets/germany.png?raw=true)
+[Germany](https://benmcwilliams.github.io/GasFlows/assets/germany.png?raw=true)
