@@ -35,4 +35,6 @@ The below links show daily imports/exports by country:
 ##### Germany
 ![Germany](https://benmcwilliams.github.io/GasFlows/assets/germany.png?raw=true|width=0.1px)
 
+<img src="https://benmcwilliams.github.io/GasFlows/assets/germany.png?" width="200" />
+
 
