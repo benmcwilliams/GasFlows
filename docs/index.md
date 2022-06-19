@@ -62,8 +62,8 @@ C) ENTSO-G not including all import flows (eg NO-DK imports? HR LNG plant does n
 ##### Denmark
 <img src="https://benmcwilliams.github.io/GasFlows/assets/DK.png?" width="400" />
 
-##### Estonia
-<img src="https://benmcwilliams.github.io/GasFlows/assets/EE.png?" width="400" />
+##### Estonia/Latvia
+<img src="https://benmcwilliams.github.io/GasFlows/assets/EE-LV.png?" width="400" />
 
 ##### Spain
 <img src="https://benmcwilliams.github.io/GasFlows/assets/ES.png?" width="400" />
@@ -91,9 +91,6 @@ C) ENTSO-G not including all import flows (eg NO-DK imports? HR LNG plant does n
 
 ##### Luxembourg
 <img src="https://benmcwilliams.github.io/GasFlows/assets/LU.png?" width="400" />
-
-##### Latvia
-<img src="https://benmcwilliams.github.io/GasFlows/assets/LV.png?" width="400" />
 
 ##### Moldova
 <img src="https://benmcwilliams.github.io/GasFlows/assets/MD.png?" width="400" />
