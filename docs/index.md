@@ -1,4 +1,4 @@
-<h2>Daily Natural Gas Balances by Country</h2>
+## Daily Natural Gas Balances by Country
 
 The below links show daily imports/exports by country:
 
@@ -30,6 +30,9 @@ The below links show daily imports/exports by country:
 [Slovenia](https://benmcwilliams.github.io/GasFlows/SI.html)
 [Slovakia](https://benmcwilliams.github.io/GasFlows/SK.html)
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
+
+## Technical Annex 
+##### Germany
 ![Germany](https://benmcwilliams.github.io/GasFlows/assets/germany.png?raw=true)
 
 
