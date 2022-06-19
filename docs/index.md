@@ -1,8 +1,10 @@
 Test Page 
 
+<h2>Daily Natural Gas Balances by Country</h2>
+
 The below links show daily imports/exports by country:
 
-[Austria](https://benmcwilliams.github.io/GasFlows/AT.html)
+[Austria](https://benmcwilliams.github.io/GasFlows/AT.html)<br>
 [Belgium](https://benmcwilliams.github.io/GasFlows/BE.html)
 [Bulgaria](https://benmcwilliams.github.io/GasFlows/BG.html)
 [Switzerland](https://benmcwilliams.github.io/GasFlows/CH.html)
@@ -32,4 +34,6 @@ The below links show daily imports/exports by country:
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/UK.html)
 
 
+<h2>Technical Details</h2>
+<p> Here I can add a technical annex with more details on the calculations <p>
 
