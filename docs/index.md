@@ -37,7 +37,10 @@ The data are retrieved from the ENTSO-G transparency platform. We cross-check da
 demand (month_t) = imports(month_t) + domestic_production (month_t) + storage_draw(month-t) - exports (month_t)
 where storage draw(month_t) = storage(month_t) - storage (month_t+1)
 
-For some countries (eg DE, xx) the match is very close while for others there is a difference. 
+For some countries (BG, CZ, DE, EE/LV, ES, FI, FR, HU, IT, LT, LU, PL, RO, SI, SK, GR) the match is very close while for others there is a difference. 
+- HR - commercial operations at KrK LNG terminal began 1Jan2021 but ENTSO-G only have data since 28th October 2021 (which is about 1.5TWh = the gap)
+- 
+
 
 Differences could be due to 
 A) A mistake in the points which we querry from ENTSO-G
