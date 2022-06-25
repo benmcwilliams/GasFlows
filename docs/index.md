@@ -150,3 +150,9 @@ Most countries have a very good max, implying we can calculate demand quite cons
 
 ##### Slovakia
 <img src="https://benmcwilliams.github.io/GasFlows/assets/SI.png?" width="400" />
+
+
+## List of entry/exit points 
+|To CC|From CC|Name|id|
+|---|---|---|---|
+|AT|DE|example|abbaba|
