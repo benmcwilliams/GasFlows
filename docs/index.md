@@ -70,15 +70,6 @@ The data are retrieved from the ENTSO-G transparency platform. They are cross-ch
 demand (month_t) = imports(month_t) + domestic_production (month_t) + storage_draw(month-t) - exports (month_t)
 where storage draw(month_t) = storage(month_t) - storage (month_t+1)
 
-Most countries have a very good max, implying we can calculate demand quite consistently, exceptions are:
-- AT: some fluctuation will be due to shared storages with DE.
-- DE: some fluctuation will be due to shared storage with NL/AT
-- HR: commercial operations at KrK LNG terminal began 1Jan2021 but ENTSO-G only have data since 28th October 2021 (which is about 1.5TWh = the gap)
-- MD: probably confusion with Russian transit
-- NL: fluctuations are due to shared storage with DE
-- PT: slight underestimate on demand with correct trend.
-- RS: not clear
-
 ##### Austria
 <img src="https://benmcwilliams.github.io/GasFlows/assets/AT.png?" width="400" />
 
@@ -151,9 +142,3 @@ Most countries have a very good max, implying we can calculate demand quite cons
 ##### Slovakia
 <img src="https://benmcwilliams.github.io/GasFlows/assets/SI.png?" width="400" />
 
-
-## List of entry/exit points 
-
-|To CC|From CC|Name|id|
-|---|---|---|---|
-|AT|DE|example|abbaba|
