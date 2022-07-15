@@ -63,8 +63,7 @@ The below figures show entry/exit into each country by points:
 [Slovakia](https://benmcwilliams.github.io/GasFlows/assets/SK_route.html)
 [United Kingdom](https://benmcwilliams.github.io/GasFlows/assets/UK_route.html)
 
-
-## [Demand Response 2022](https://benmcwilliams.github.io/GasFlows/assets/DemandHeatmap.html)
+[Demand Response 2022](https://benmcwilliams.github.io/GasFlows/assets/DemandHeatmap.html)
 
 ## Technical Annex 
 The data are retrieved from the ENTSO-G transparency platform. They are cross-checked against IEA reporting as well as figures given by national TSOs where available. A final check can be performed by calculating the implied demand given by the import/export values we have and comparing this to demand reported by Eurostat at a 3-month delay. The below graphs show this comparison. Implied demand is calculated as:
