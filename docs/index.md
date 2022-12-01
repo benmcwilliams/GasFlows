@@ -1,5 +1,10 @@
 ## Daily Natural Gas Balances by Country
 
+The below links visualise the evolution of Industrial Output for a range of industries (Eurostat Data)
+
+[Austria](https://benmcwilliams.github.io/GasFlows/AT.html)
+
+
 The below links show daily imports/exports by country:
 
 [Austria](https://benmcwilliams.github.io/GasFlows/AT.html)
